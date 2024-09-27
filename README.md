@@ -7,5 +7,6 @@ This project analyzes a Spotify dataset containing attributes related to tracks,
 - Data normalization to enhance database structure and efficiency.
 - Complex SQL queries for extracting insights, with a progression from simple to advanced.
 - Query performance optimization to ensure efficient data retrieval.
+
 The project aims to hone advanced SQL skills while delivering actionable insights from the dataset.
 
